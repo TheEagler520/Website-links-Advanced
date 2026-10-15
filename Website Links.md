@@ -20,10 +20,21 @@ Websites on Vercel at https://vercel.com/eagcraft/
 
 <https://schoolwork-dun.vercel.app/>
 
-<br><br>
+<br>
+
+>[!NOTE]
+>EAGLER 26.2 JUST GOT AN UPDATE!!!!!!!!! It brings a mod menu, many different optimization methods for a smoother FPS. Will be adding more later, but heres the site for now.
+
+## EAGLER 26.2 LINKS (Update 1)
+
+<br>
+
+<https://mcu1.vercel.app>
+
+<br><br><br>
 
 
-## EAGLER 26.2 LINKS
+## EAGLER 26.2 LINKS (Pre update)
 
 <https://minecraft-three-beta.vercel.app>
 
@@ -39,10 +50,13 @@ Websites on Vercel at https://vercel.com/eagcraft/
 <br><br>
 
 
-## BONUS: WEBSITE CLOAKER: ENABLE POPUPS FOR BEST EXPERIENCE.
-
+## BONUS: A website cloaker and discord unblocked.
+website cloaker:
 <https://website-cloaker-interstellar.vercel.app/>
-
+<br>
+<br>
+discord unblocked:
+<https://flame-tan.vercel.app/>
 <br><br>
 
 
